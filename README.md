@@ -7,4 +7,4 @@ programming language
 operating system
 hardware device 
 
-The code should be a minimal working sample that are easy to graspe the underlying concept.
+The code should be a minimal working sample that are easy to learn the underlying concept.
